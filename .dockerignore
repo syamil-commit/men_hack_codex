@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+.idea
+.vscode
+.DS_Store
+*.log
+.env
+.env.*
+README.md
+semen-analysis-poc-plan.md
